@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-One major challenge I had while creating this app came from my emulator. It was failing to show the toast when an item was added or removed. But I realised it had nothing to do with my code but rather my system so I spoke to one the TA's and they helped me fix it.
+One major challenge I had while creating this app came from my emulator. It was failing to show the toast when an item was added or removed an item. But I realised it had nothing to do with my code but rather my system so I spoke to one the TA's and they helped me fix it.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
